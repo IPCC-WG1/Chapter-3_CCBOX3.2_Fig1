@@ -1,6 +1,7 @@
 
 TEMPERATURE AND PRECIPITATION EXTREMES
 ============
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6786659.svg)](https://doi.org/10.5281/zenodo.6786659)
 
 Figure number: CCB3.2 Figure 1
 From the IPCC Working Group I Contribution to the Sixth Assessment Report: Chapter 3
